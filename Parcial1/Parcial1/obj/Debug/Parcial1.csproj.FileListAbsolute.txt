@@ -1,0 +1,14 @@
+C:\Users\JuanBe Matrice\source\repos\Parcial1\Parcial1\bin\Debug\Parcial1.exe.config
+C:\Users\JuanBe Matrice\source\repos\Parcial1\Parcial1\bin\Debug\Parcial1.exe
+C:\Users\JuanBe Matrice\source\repos\Parcial1\Parcial1\bin\Debug\Parcial1.pdb
+C:\Users\JuanBe Matrice\source\repos\Parcial1\Parcial1\bin\Debug\Libreria.dll
+C:\Users\JuanBe Matrice\source\repos\Parcial1\Parcial1\bin\Debug\Libreria.pdb
+C:\Users\JuanBe Matrice\source\repos\Parcial1\Parcial1\obj\Debug\Parcial1.csproj.AssemblyReference.cache
+C:\Users\JuanBe Matrice\source\repos\Parcial1\Parcial1\obj\Debug\Parcial1.csproj.SuggestedBindingRedirects.cache
+C:\Users\JuanBe Matrice\source\repos\Parcial1\Parcial1\obj\Debug\Parcial1.Form1.resources
+C:\Users\JuanBe Matrice\source\repos\Parcial1\Parcial1\obj\Debug\Parcial1.Properties.Resources.resources
+C:\Users\JuanBe Matrice\source\repos\Parcial1\Parcial1\obj\Debug\Parcial1.csproj.GenerateResource.cache
+C:\Users\JuanBe Matrice\source\repos\Parcial1\Parcial1\obj\Debug\Parcial1.csproj.CoreCompileInputs.cache
+C:\Users\JuanBe Matrice\source\repos\Parcial1\Parcial1\obj\Debug\Parcial1.csproj.CopyComplete
+C:\Users\JuanBe Matrice\source\repos\Parcial1\Parcial1\obj\Debug\Parcial1.exe
+C:\Users\JuanBe Matrice\source\repos\Parcial1\Parcial1\obj\Debug\Parcial1.pdb

@@ -1,0 +1,6 @@
+C:\Users\JuanBe Matrice\source\repos\Parcial1\Libreria\bin\Debug\Libreria.dll
+C:\Users\JuanBe Matrice\source\repos\Parcial1\Libreria\bin\Debug\Libreria.pdb
+C:\Users\JuanBe Matrice\source\repos\Parcial1\Libreria\obj\Debug\Libreria.csproj.AssemblyReference.cache
+C:\Users\JuanBe Matrice\source\repos\Parcial1\Libreria\obj\Debug\Libreria.csproj.CoreCompileInputs.cache
+C:\Users\JuanBe Matrice\source\repos\Parcial1\Libreria\obj\Debug\Libreria.dll
+C:\Users\JuanBe Matrice\source\repos\Parcial1\Libreria\obj\Debug\Libreria.pdb

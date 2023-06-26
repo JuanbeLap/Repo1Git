@@ -25,7 +25,7 @@ namespace Parcial1
 
 
             //Auxi empleado;
-            /*switch (cbTiposPersonal.SelectedItem.ToString())
+            switch (cbTiposPersonal.SelectedItem.ToString())
             {
                 case "Auxiliar": 
                      Auxi empleado = new Auxi();
@@ -46,13 +46,33 @@ namespace Parcial1
                     empMod.Horas = int.Parse(txtHoras.Text);
                     empMod.Sueldo = 78.500f;
                     empresa.listaMod.Add(empMod);
-
                     break;
+
+                case "Publicitario":
+                    Pub empPub = new Pub();
+                    empPub.Nombre = txtNombre.Text;
+                    empPub.Tipo= cbTiposPersonal.SelectedItem.ToString();
+                    empPub.Horas = int.Parse(txtHoras.Text);
+                    //empPub.Sueldo = 
+                    empresa.listaPub.Add(empPub);
+                    break;
+
+                case "Presentador":
+                    Pres empPres = new Pres();
+                    empPres.Nombre = txtNombre.Text;
+                    empPres.Tipo = cbTiposPersonal.SelectedItem.ToString();
+                    empPres.Horas = int.Parse(txtHoras.Text);
+                    //empPres.Suedo =;
+                    empresa.listaPres.Add(empPres);
+                    
+                    break;
+
+
 
 
             }
 
-            CargarList();*/
+            CargarList();
         }
 
         void CargarList()
@@ -60,6 +80,8 @@ namespace Parcial1
             List<Personal> listaEmpleados = new List<Personal>();
             listaEmpleados.AddRange(empresa.listaAux);
             listaEmpleados.AddRange(empresa.listaMod);
+            listaEmpleados.AddRange(empresa.listaPub);
+            listaEmpleados.AddRange(empresa.listaPres);
             dataGridView1.DataSource = null;
             dataGridView1.DataSource = listaEmpleados;
             

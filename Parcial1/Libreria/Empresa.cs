@@ -12,6 +12,8 @@ namespace Libreria
 		{
 			listaAux = new List<Auxi> {};
 			listaMod = new List<Modelo> { };
+			listaPub = new List<Pub> { };
+			listaPres = new List<Pres> { };
 			
 		}	
 
@@ -29,8 +31,22 @@ namespace Libreria
 			get { return listamod; }
 			set { listamod = value; }
 		}
-		
 
+		private List<Pub> listapub;
+
+		public List<Pub> listaPub
+		{
+			get { return listapub; }
+			set { listapub = value; }
+		}
+
+		private List<Pres> listapres;
+
+		public List<Pres> listaPres
+		{
+			get { return listapres; }
+			set { listapres = value; }
+		}
 
 
 

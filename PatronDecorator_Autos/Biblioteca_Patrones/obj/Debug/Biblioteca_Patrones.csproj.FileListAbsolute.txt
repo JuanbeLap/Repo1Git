@@ -1,0 +1,6 @@
+C:\Users\JuanBe\source\repos\PatronDecorator_Autos\Biblioteca_Patrones\bin\Debug\Biblioteca_Patrones.dll
+C:\Users\JuanBe\source\repos\PatronDecorator_Autos\Biblioteca_Patrones\bin\Debug\Biblioteca_Patrones.pdb
+C:\Users\JuanBe\source\repos\PatronDecorator_Autos\Biblioteca_Patrones\obj\Debug\Biblioteca_Patrones.csproj.AssemblyReference.cache
+C:\Users\JuanBe\source\repos\PatronDecorator_Autos\Biblioteca_Patrones\obj\Debug\Biblioteca_Patrones.csproj.CoreCompileInputs.cache
+C:\Users\JuanBe\source\repos\PatronDecorator_Autos\Biblioteca_Patrones\obj\Debug\Biblioteca_Patrones.dll
+C:\Users\JuanBe\source\repos\PatronDecorator_Autos\Biblioteca_Patrones\obj\Debug\Biblioteca_Patrones.pdb

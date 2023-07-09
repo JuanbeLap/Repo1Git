@@ -1,0 +1,14 @@
+C:\Users\JuanBe Matrice\source\repos\14-6-23 Interfaz\14-6-23 Interfaz\bin\Debug\14-6-23 Interfaz.exe.config
+C:\Users\JuanBe Matrice\source\repos\14-6-23 Interfaz\14-6-23 Interfaz\bin\Debug\14-6-23 Interfaz.exe
+C:\Users\JuanBe Matrice\source\repos\14-6-23 Interfaz\14-6-23 Interfaz\bin\Debug\14-6-23 Interfaz.pdb
+C:\Users\JuanBe Matrice\source\repos\14-6-23 Interfaz\14-6-23 Interfaz\bin\Debug\ClassLibrary1.dll
+C:\Users\JuanBe Matrice\source\repos\14-6-23 Interfaz\14-6-23 Interfaz\bin\Debug\ClassLibrary1.pdb
+C:\Users\JuanBe Matrice\source\repos\14-6-23 Interfaz\14-6-23 Interfaz\obj\Debug\14-6-23 Interfaz.csproj.AssemblyReference.cache
+C:\Users\JuanBe Matrice\source\repos\14-6-23 Interfaz\14-6-23 Interfaz\obj\Debug\14-6-23 Interfaz.csproj.SuggestedBindingRedirects.cache
+C:\Users\JuanBe Matrice\source\repos\14-6-23 Interfaz\14-6-23 Interfaz\obj\Debug\_14_6_23_Interfaz.Form1.resources
+C:\Users\JuanBe Matrice\source\repos\14-6-23 Interfaz\14-6-23 Interfaz\obj\Debug\_14_6_23_Interfaz.Properties.Resources.resources
+C:\Users\JuanBe Matrice\source\repos\14-6-23 Interfaz\14-6-23 Interfaz\obj\Debug\14-6-23 Interfaz.csproj.GenerateResource.cache
+C:\Users\JuanBe Matrice\source\repos\14-6-23 Interfaz\14-6-23 Interfaz\obj\Debug\14-6-23 Interfaz.csproj.CoreCompileInputs.cache
+C:\Users\JuanBe Matrice\source\repos\14-6-23 Interfaz\14-6-23 Interfaz\obj\Debug\14-6-23 Interfaz.csproj.CopyComplete
+C:\Users\JuanBe Matrice\source\repos\14-6-23 Interfaz\14-6-23 Interfaz\obj\Debug\14-6-23 Interfaz.exe
+C:\Users\JuanBe Matrice\source\repos\14-6-23 Interfaz\14-6-23 Interfaz\obj\Debug\14-6-23 Interfaz.pdb

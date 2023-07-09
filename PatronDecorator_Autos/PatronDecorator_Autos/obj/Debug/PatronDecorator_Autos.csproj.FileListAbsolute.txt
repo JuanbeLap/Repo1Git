@@ -12,3 +12,17 @@ C:\Users\JuanBe\source\repos\PatronDecorator_Autos\PatronDecorator_Autos\obj\Deb
 C:\Users\JuanBe\source\repos\PatronDecorator_Autos\PatronDecorator_Autos\obj\Debug\PatronDecorator_Autos.csproj.CopyComplete
 C:\Users\JuanBe\source\repos\PatronDecorator_Autos\PatronDecorator_Autos\obj\Debug\PatronDecorator_Autos.exe
 C:\Users\JuanBe\source\repos\PatronDecorator_Autos\PatronDecorator_Autos\obj\Debug\PatronDecorator_Autos.pdb
+C:\Users\JuanBe Matrice\source\Repo1Git\PatronDecorator_Autos\PatronDecorator_Autos\bin\Debug\PatronDecorator_Autos.exe.config
+C:\Users\JuanBe Matrice\source\Repo1Git\PatronDecorator_Autos\PatronDecorator_Autos\bin\Debug\PatronDecorator_Autos.exe
+C:\Users\JuanBe Matrice\source\Repo1Git\PatronDecorator_Autos\PatronDecorator_Autos\bin\Debug\PatronDecorator_Autos.pdb
+C:\Users\JuanBe Matrice\source\Repo1Git\PatronDecorator_Autos\PatronDecorator_Autos\bin\Debug\Biblioteca_Patrones.dll
+C:\Users\JuanBe Matrice\source\Repo1Git\PatronDecorator_Autos\PatronDecorator_Autos\bin\Debug\Biblioteca_Patrones.pdb
+C:\Users\JuanBe Matrice\source\Repo1Git\PatronDecorator_Autos\PatronDecorator_Autos\obj\Debug\PatronDecorator_Autos.csproj.AssemblyReference.cache
+C:\Users\JuanBe Matrice\source\Repo1Git\PatronDecorator_Autos\PatronDecorator_Autos\obj\Debug\PatronDecorator_Autos.csproj.SuggestedBindingRedirects.cache
+C:\Users\JuanBe Matrice\source\Repo1Git\PatronDecorator_Autos\PatronDecorator_Autos\obj\Debug\PatronDecorator_Autos.Form1.resources
+C:\Users\JuanBe Matrice\source\Repo1Git\PatronDecorator_Autos\PatronDecorator_Autos\obj\Debug\PatronDecorator_Autos.Properties.Resources.resources
+C:\Users\JuanBe Matrice\source\Repo1Git\PatronDecorator_Autos\PatronDecorator_Autos\obj\Debug\PatronDecorator_Autos.csproj.GenerateResource.cache
+C:\Users\JuanBe Matrice\source\Repo1Git\PatronDecorator_Autos\PatronDecorator_Autos\obj\Debug\PatronDecorator_Autos.csproj.CoreCompileInputs.cache
+C:\Users\JuanBe Matrice\source\Repo1Git\PatronDecorator_Autos\PatronDecorator_Autos\obj\Debug\PatronDecorator_Autos.csproj.CopyComplete
+C:\Users\JuanBe Matrice\source\Repo1Git\PatronDecorator_Autos\PatronDecorator_Autos\obj\Debug\PatronDecorator_Autos.exe
+C:\Users\JuanBe Matrice\source\Repo1Git\PatronDecorator_Autos\PatronDecorator_Autos\obj\Debug\PatronDecorator_Autos.pdb

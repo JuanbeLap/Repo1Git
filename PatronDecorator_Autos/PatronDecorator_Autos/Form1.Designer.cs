@@ -39,16 +39,18 @@
             // 
             // txtResult
             // 
-            this.txtResult.Location = new System.Drawing.Point(12, 376);
+            this.txtResult.Location = new System.Drawing.Point(18, 578);
+            this.txtResult.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.txtResult.Name = "txtResult";
-            this.txtResult.Size = new System.Drawing.Size(238, 20);
+            this.txtResult.Size = new System.Drawing.Size(355, 26);
             this.txtResult.TabIndex = 0;
             // 
             // btnCargar
             // 
-            this.btnCargar.Location = new System.Drawing.Point(144, 123);
+            this.btnCargar.Location = new System.Drawing.Point(216, 189);
+            this.btnCargar.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btnCargar.Name = "btnCargar";
-            this.btnCargar.Size = new System.Drawing.Size(75, 23);
+            this.btnCargar.Size = new System.Drawing.Size(112, 35);
             this.btnCargar.TabIndex = 1;
             this.btnCargar.Text = "Cargar";
             this.btnCargar.UseVisualStyleBackColor = true;
@@ -63,17 +65,19 @@
             "Fiesta",
             "Focus",
             "Ranger"});
-            this.cbModelo.Location = new System.Drawing.Point(115, 79);
+            this.cbModelo.Location = new System.Drawing.Point(172, 122);
+            this.cbModelo.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.cbModelo.Name = "cbModelo";
-            this.cbModelo.Size = new System.Drawing.Size(121, 21);
+            this.cbModelo.Size = new System.Drawing.Size(180, 28);
             this.cbModelo.TabIndex = 2;
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(112, 51);
+            this.label1.Location = new System.Drawing.Point(168, 78);
+            this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(125, 13);
+            this.label1.Size = new System.Drawing.Size(187, 20);
             this.label1.TabIndex = 3;
             this.label1.Text = "Elija su modelo de FORD";
             // 
@@ -84,18 +88,20 @@
             "Levanta vidrios",
             "Stereo tactil",
             "Llantas"});
-            this.ListCheckBox.Location = new System.Drawing.Point(513, 97);
+            this.ListCheckBox.Location = new System.Drawing.Point(770, 149);
+            this.ListCheckBox.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.ListCheckBox.Name = "ListCheckBox";
-            this.ListCheckBox.Size = new System.Drawing.Size(98, 49);
+            this.ListCheckBox.Size = new System.Drawing.Size(145, 73);
             this.ListCheckBox.TabIndex = 4;
             this.ListCheckBox.Visible = false;
             // 
             // checkBox1
             // 
             this.checkBox1.AutoSize = true;
-            this.checkBox1.Location = new System.Drawing.Point(295, 97);
+            this.checkBox1.Location = new System.Drawing.Point(442, 149);
+            this.checkBox1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.checkBox1.Name = "checkBox1";
-            this.checkBox1.Size = new System.Drawing.Size(187, 17);
+            this.checkBox1.Size = new System.Drawing.Size(277, 24);
             this.checkBox1.TabIndex = 5;
             this.checkBox1.Text = "Desea agregarle funcionalidades?";
             this.checkBox1.UseVisualStyleBackColor = true;
@@ -103,9 +109,10 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(412, 200);
+            this.button1.Location = new System.Drawing.Point(618, 308);
+            this.button1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(87, 55);
+            this.button1.Size = new System.Drawing.Size(130, 85);
             this.button1.TabIndex = 6;
             this.button1.Text = "button1";
             this.button1.UseVisualStyleBackColor = true;
@@ -113,9 +120,9 @@
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(1050, 424);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.checkBox1);
             this.Controls.Add(this.ListCheckBox);
@@ -123,6 +130,7 @@
             this.Controls.Add(this.cbModelo);
             this.Controls.Add(this.btnCargar);
             this.Controls.Add(this.txtResult);
+            this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.Name = "Form1";
             this.Text = "Form1";
             this.ResumeLayout(false);

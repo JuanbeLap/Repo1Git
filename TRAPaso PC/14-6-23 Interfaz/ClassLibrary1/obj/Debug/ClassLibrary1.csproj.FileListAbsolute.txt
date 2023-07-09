@@ -1,0 +1,6 @@
+C:\Users\JuanBe Matrice\source\repos\14-6-23 Interfaz\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\JuanBe Matrice\source\repos\14-6-23 Interfaz\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\JuanBe Matrice\source\repos\14-6-23 Interfaz\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\JuanBe Matrice\source\repos\14-6-23 Interfaz\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\JuanBe Matrice\source\repos\14-6-23 Interfaz\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\JuanBe Matrice\source\repos\14-6-23 Interfaz\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
